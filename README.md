@@ -1,2 +1,2 @@
 # C Cafe
- C examples
+## Learn C with help of examples.
