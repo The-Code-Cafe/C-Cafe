@@ -1,7 +1,7 @@
 /*
     Copyright (c) 2022, The Code Cafe. All rights reserved.
 
-    Compare two numbers using '<' (less than) relational operator.
+    Compare two numbers using '>' (greater than) relational operator.
 
     Explanation:
     Since 20 is greater than 10, the expression is true, and we get true (1) as a result.
