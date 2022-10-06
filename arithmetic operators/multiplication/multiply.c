@@ -4,14 +4,14 @@
     Multiply two numbers using '*' arithmetic operator.
 
     Output:
-    25
+    100
 */
 
 #include <stdio.h>
 
 int main()
 {
-    int x = 5, y = 5, ans;
+    int x = 5, y = 20, ans;
     ans = x * y;
     printf("%d", ans);
     return 0;
